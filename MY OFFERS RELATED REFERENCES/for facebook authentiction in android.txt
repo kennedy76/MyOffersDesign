@@ -1,0 +1,12 @@
+TO GENERATE THE KEY :  keytool -exportcert -alias androiddebugkey -keystore "C:\Users\Happy.Happy-PC\.android\debug.keystore" | "C:\OpenSSL\bin\openssl" sha1 -binary |"C:\OpenSSL\bin\openssl" base64
+
+
+
+
+KEY = " BE40rUz8/k2ufULs2jIQnh1QJTc= "
+
+
+
+
+PRIVACY POLOCY URL = 
+https://termsfeed.com/privacy-policy/ca284fe2465b597c131558d7a74ac0c9
